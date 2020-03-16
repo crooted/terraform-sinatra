@@ -1,0 +1,11 @@
+.terraform
+.terraform/*
+.terraform*
+terraform.tfstate
+terraform.tfstate*
+.terraform/**
+.terraform
+*.tfstate*
+*.zip
+terraform.tfstate.d
+.tox
